@@ -22,9 +22,9 @@ Atliq Hardwares (imaginary company) is one of the leading computer hardware prod
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/customer%20performance%20report.pdf)_ 
+    **1.** Create a Profit and Loss statement
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/Market%20performanc%20vs%20Target.pdf)_
+    **2.** Conduct a comprehensive comparison between Top and Bottom Markets for products and customers in terms of Profit and Loss
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -37,9 +37,9 @@ Atliq Hardwares (imaginary company) is one of the leading computer hardware prod
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year.pdf)_ & _[Months](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Months.pdf)_ 
+    **1.** Create a Customer Performance report through regions, Products for Last year , current year and Target
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/Detailed%20market%20analysis.pdf)_
+    **2.** Create Pre Invoice and Post Invoice deductions for customers and performance matrix
 
 - **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -52,9 +52,9 @@ Atliq Hardwares (imaginary company) is one of the leading computer hardware prod
 
 - **Project objective:** 
 
-    **1.** Comparision of product perforamance through out various regions and markets_[Fiscal Year](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year.pdf)_ & _[Months](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Months.pdf)_ 
+    **1.** Comparision of product perforamance through out various regions and markets and Net Profits
 
-   **2.** Comparision of customers perforamance through out various regions and markets_[Markets](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/Detailed%20market%20analysis.pdf)_
+   **2.** Comparision of customers perforamance through out various regions , Total COGS and Gross Margin
 
 - **Purpose of Marketing analytics:** To ease the creation of Marketing stratagies and support decision-making, and facilitate communication with stakeholders.
 
@@ -67,9 +67,9 @@ Atliq Hardwares (imaginary company) is one of the leading computer hardware prod
 
 - **Project objective:** 
 
-    **1.** Comparision of Net sales performance over time with respect to net error while forecasting_[Fiscal Year](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year.pdf)_ & _[Months](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Months.pdf)_ 
-
-   **2.** Comparision of customers perforamance through out various regions and markets_[Markets](https://github.com/AshwinPavanKadha/Excel-Sales-Analytics/blob/main/Detailed%20market%20analysis.pdf)_
+    **1.** Comparision of Net sales performance over time with respect to net error , forcast accuracy , Net Error vs Last Year, Risk factor
+  
+    **2.** Comparision of customers perforamance through out various regions and markets 
 
 - **Purpose of Supply Chain analytics:** Empower businesses to monitor and evaluate their Supply Chain Team's activities and performance.
 
